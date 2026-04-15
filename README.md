@@ -1,4 +1,5 @@
-Overview
+Overview: 
+
 This project involves creating an interactive sales dashboard for Zepto using Power BI. \
 The dashboard provides a comprehensive view of the company’s sales performance, allowing for data-driven decisions and insights into key business metrics.
 
